@@ -52,7 +52,7 @@ japanese-segmentation-unidic = ["lindera-tokenizer/unidic", "lindera-tokenizer/u
 japanese-transliteration = ["dep:wana_kana"]
 
 # allow korean specialized tokenization
-korean = ["lindera-tokenizer/ko-dic", "lindera-tokenizer/ko-dic-compress"]
+korean = []
 
 # allow thai specialized tokenization
 thai = []
